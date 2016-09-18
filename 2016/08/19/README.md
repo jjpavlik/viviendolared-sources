@@ -1,0 +1,1 @@
+- http://viviendolared.blogspot.ie/2016/08/strace-101-stracing-your-stuff.html
